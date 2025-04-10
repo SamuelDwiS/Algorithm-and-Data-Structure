@@ -1,0 +1,14 @@
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\obj\Debug\net9.0\review3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\obj\Debug\net9.0\review3.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\obj\Debug\net9.0\review3.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\obj\Debug\net9.0\review3.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\bin\Debug\net9.0\review3.exe
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\bin\Debug\net9.0\review3.deps.json
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\bin\Debug\net9.0\review3.runtimeconfig.json
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\bin\Debug\net9.0\review3.dll
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\bin\Debug\net9.0\review3.pdb
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\obj\Debug\net9.0\review3.dll
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\obj\Debug\net9.0\refint\review3.dll
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\obj\Debug\net9.0\review3.pdb
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\obj\Debug\net9.0\review3.genruntimeconfig.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\review3\obj\Debug\net9.0\ref\review3.dll

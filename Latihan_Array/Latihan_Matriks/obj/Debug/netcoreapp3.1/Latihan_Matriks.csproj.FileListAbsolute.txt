@@ -1,0 +1,13 @@
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\bin\Debug\netcoreapp3.1\Latihan_Matriks.exe
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\bin\Debug\netcoreapp3.1\Latihan_Matriks.deps.json
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\bin\Debug\netcoreapp3.1\Latihan_Matriks.runtimeconfig.json
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\bin\Debug\netcoreapp3.1\Latihan_Matriks.runtimeconfig.dev.json
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\bin\Debug\netcoreapp3.1\Latihan_Matriks.dll
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\bin\Debug\netcoreapp3.1\Latihan_Matriks.pdb
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\obj\Debug\netcoreapp3.1\Latihan_Matriks.csprojAssemblyReference.cache
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\obj\Debug\netcoreapp3.1\Latihan_Matriks.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\obj\Debug\netcoreapp3.1\Latihan_Matriks.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\obj\Debug\netcoreapp3.1\Latihan_Matriks.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\obj\Debug\netcoreapp3.1\Latihan_Matriks.dll
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\obj\Debug\netcoreapp3.1\Latihan_Matriks.pdb
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Matriks\obj\Debug\netcoreapp3.1\Latihan_Matriks.genruntimeconfig.cache

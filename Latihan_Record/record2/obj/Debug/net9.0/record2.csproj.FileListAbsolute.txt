@@ -1,0 +1,14 @@
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\net9.0\record2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\net9.0\record2.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\net9.0\record2.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\net9.0\record2.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\bin\Debug\net9.0\record2.exe
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\bin\Debug\net9.0\record2.deps.json
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\bin\Debug\net9.0\record2.runtimeconfig.json
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\bin\Debug\net9.0\record2.dll
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\bin\Debug\net9.0\record2.pdb
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\net9.0\record2.dll
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\net9.0\refint\record2.dll
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\net9.0\record2.pdb
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\net9.0\record2.genruntimeconfig.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\net9.0\ref\record2.dll

@@ -1,0 +1,13 @@
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\bin\Debug\netcoreapp3.1\Latihan_Array.exe
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\bin\Debug\netcoreapp3.1\Latihan_Array.deps.json
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\bin\Debug\netcoreapp3.1\Latihan_Array.runtimeconfig.json
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\bin\Debug\netcoreapp3.1\Latihan_Array.runtimeconfig.dev.json
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\bin\Debug\netcoreapp3.1\Latihan_Array.dll
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\bin\Debug\netcoreapp3.1\Latihan_Array.pdb
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\obj\Debug\netcoreapp3.1\Latihan_Array.csprojAssemblyReference.cache
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\obj\Debug\netcoreapp3.1\Latihan_Array.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\obj\Debug\netcoreapp3.1\Latihan_Array.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\obj\Debug\netcoreapp3.1\Latihan_Array.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\obj\Debug\netcoreapp3.1\Latihan_Array.dll
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\obj\Debug\netcoreapp3.1\Latihan_Array.pdb
+C:\Ngoding\BelajarSoC\Latihan_Array\Latihan_Array\obj\Debug\netcoreapp3.1\Latihan_Array.genruntimeconfig.cache

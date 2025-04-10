@@ -1,0 +1,13 @@
+C:\Ngoding\BelajarSoC\Review_Satu\bin\Debug\netcoreapp3.1\Review_Satu.exe
+C:\Ngoding\BelajarSoC\Review_Satu\bin\Debug\netcoreapp3.1\Review_Satu.deps.json
+C:\Ngoding\BelajarSoC\Review_Satu\bin\Debug\netcoreapp3.1\Review_Satu.runtimeconfig.json
+C:\Ngoding\BelajarSoC\Review_Satu\bin\Debug\netcoreapp3.1\Review_Satu.runtimeconfig.dev.json
+C:\Ngoding\BelajarSoC\Review_Satu\bin\Debug\netcoreapp3.1\Review_Satu.dll
+C:\Ngoding\BelajarSoC\Review_Satu\bin\Debug\netcoreapp3.1\Review_Satu.pdb
+C:\Ngoding\BelajarSoC\Review_Satu\obj\Debug\netcoreapp3.1\Review_Satu.csprojAssemblyReference.cache
+C:\Ngoding\BelajarSoC\Review_Satu\obj\Debug\netcoreapp3.1\Review_Satu.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\Review_Satu\obj\Debug\netcoreapp3.1\Review_Satu.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\Review_Satu\obj\Debug\netcoreapp3.1\Review_Satu.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\Review_Satu\obj\Debug\netcoreapp3.1\Review_Satu.dll
+C:\Ngoding\BelajarSoC\Review_Satu\obj\Debug\netcoreapp3.1\Review_Satu.pdb
+C:\Ngoding\BelajarSoC\Review_Satu\obj\Debug\netcoreapp3.1\Review_Satu.genruntimeconfig.cache

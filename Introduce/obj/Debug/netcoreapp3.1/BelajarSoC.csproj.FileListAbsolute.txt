@@ -1,0 +1,13 @@
+C:\Ngoding\BelajarSoC\BelajarSoC\obj\Debug\netcoreapp3.1\BelajarSoC.csprojAssemblyReference.cache
+C:\Ngoding\BelajarSoC\BelajarSoC\obj\Debug\netcoreapp3.1\BelajarSoC.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\BelajarSoC\obj\Debug\netcoreapp3.1\BelajarSoC.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\BelajarSoC\obj\Debug\netcoreapp3.1\BelajarSoC.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\BelajarSoC\bin\Debug\netcoreapp3.1\BelajarSoC.exe
+C:\Ngoding\BelajarSoC\BelajarSoC\bin\Debug\netcoreapp3.1\BelajarSoC.deps.json
+C:\Ngoding\BelajarSoC\BelajarSoC\bin\Debug\netcoreapp3.1\BelajarSoC.runtimeconfig.json
+C:\Ngoding\BelajarSoC\BelajarSoC\bin\Debug\netcoreapp3.1\BelajarSoC.runtimeconfig.dev.json
+C:\Ngoding\BelajarSoC\BelajarSoC\bin\Debug\netcoreapp3.1\BelajarSoC.dll
+C:\Ngoding\BelajarSoC\BelajarSoC\bin\Debug\netcoreapp3.1\BelajarSoC.pdb
+C:\Ngoding\BelajarSoC\BelajarSoC\obj\Debug\netcoreapp3.1\BelajarSoC.dll
+C:\Ngoding\BelajarSoC\BelajarSoC\obj\Debug\netcoreapp3.1\BelajarSoC.pdb
+C:\Ngoding\BelajarSoC\BelajarSoC\obj\Debug\netcoreapp3.1\BelajarSoC.genruntimeconfig.cache

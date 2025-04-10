@@ -1,0 +1,5 @@
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\netcoreapp3.1\record2.csprojAssemblyReference.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\netcoreapp3.1\record2.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\netcoreapp3.1\record2.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\netcoreapp3.1\record2.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\record2\obj\Debug\netcoreapp3.1\record2.GeneratedMSBuildEditorConfig.editorconfig

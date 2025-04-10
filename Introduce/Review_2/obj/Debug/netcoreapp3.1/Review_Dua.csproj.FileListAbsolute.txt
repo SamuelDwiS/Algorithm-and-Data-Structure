@@ -1,0 +1,13 @@
+C:\Ngoding\BelajarSoC\Review_Dua\bin\Debug\netcoreapp3.1\Review_Dua.exe
+C:\Ngoding\BelajarSoC\Review_Dua\bin\Debug\netcoreapp3.1\Review_Dua.deps.json
+C:\Ngoding\BelajarSoC\Review_Dua\bin\Debug\netcoreapp3.1\Review_Dua.runtimeconfig.json
+C:\Ngoding\BelajarSoC\Review_Dua\bin\Debug\netcoreapp3.1\Review_Dua.runtimeconfig.dev.json
+C:\Ngoding\BelajarSoC\Review_Dua\bin\Debug\netcoreapp3.1\Review_Dua.dll
+C:\Ngoding\BelajarSoC\Review_Dua\bin\Debug\netcoreapp3.1\Review_Dua.pdb
+C:\Ngoding\BelajarSoC\Review_Dua\obj\Debug\netcoreapp3.1\Review_Dua.csprojAssemblyReference.cache
+C:\Ngoding\BelajarSoC\Review_Dua\obj\Debug\netcoreapp3.1\Review_Dua.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\Review_Dua\obj\Debug\netcoreapp3.1\Review_Dua.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\Review_Dua\obj\Debug\netcoreapp3.1\Review_Dua.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\Review_Dua\obj\Debug\netcoreapp3.1\Review_Dua.dll
+C:\Ngoding\BelajarSoC\Review_Dua\obj\Debug\netcoreapp3.1\Review_Dua.pdb
+C:\Ngoding\BelajarSoC\Review_Dua\obj\Debug\netcoreapp3.1\Review_Dua.genruntimeconfig.cache

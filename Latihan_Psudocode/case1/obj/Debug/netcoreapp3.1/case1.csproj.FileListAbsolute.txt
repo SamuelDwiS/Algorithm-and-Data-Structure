@@ -1,0 +1,13 @@
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\bin\Debug\netcoreapp3.1\case1.exe
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\bin\Debug\netcoreapp3.1\case1.deps.json
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\bin\Debug\netcoreapp3.1\case1.runtimeconfig.json
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\bin\Debug\netcoreapp3.1\case1.runtimeconfig.dev.json
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\bin\Debug\netcoreapp3.1\case1.dll
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\bin\Debug\netcoreapp3.1\case1.pdb
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\obj\Debug\netcoreapp3.1\case1.csprojAssemblyReference.cache
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\obj\Debug\netcoreapp3.1\case1.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\obj\Debug\netcoreapp3.1\case1.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\obj\Debug\netcoreapp3.1\case1.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\obj\Debug\netcoreapp3.1\case1.dll
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\obj\Debug\netcoreapp3.1\case1.pdb
+C:\Ngoding\BelajarSoC\Latihan_Psudocode\case1\obj\Debug\netcoreapp3.1\case1.genruntimeconfig.cache

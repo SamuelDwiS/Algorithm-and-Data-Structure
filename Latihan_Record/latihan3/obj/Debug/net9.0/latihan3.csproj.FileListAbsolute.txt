@@ -1,0 +1,14 @@
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\bin\Debug\net9.0\latihan3.exe
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\bin\Debug\net9.0\latihan3.deps.json
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\bin\Debug\net9.0\latihan3.runtimeconfig.json
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\bin\Debug\net9.0\latihan3.dll
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\bin\Debug\net9.0\latihan3.pdb
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\obj\Debug\net9.0\latihan3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\obj\Debug\net9.0\latihan3.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\obj\Debug\net9.0\latihan3.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\obj\Debug\net9.0\latihan3.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\obj\Debug\net9.0\latihan3.dll
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\obj\Debug\net9.0\refint\latihan3.dll
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\obj\Debug\net9.0\latihan3.pdb
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\obj\Debug\net9.0\latihan3.genruntimeconfig.cache
+C:\Ngoding\BelajarSoC\Latihan_Record\latihan3\obj\Debug\net9.0\ref\latihan3.dll

@@ -1,0 +1,13 @@
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\obj\Debug\netcoreapp3.1\latihan3.csprojAssemblyReference.cache
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\obj\Debug\netcoreapp3.1\latihan3.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\obj\Debug\netcoreapp3.1\latihan3.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\obj\Debug\netcoreapp3.1\latihan3.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\bin\Debug\netcoreapp3.1\latihan3.exe
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\bin\Debug\netcoreapp3.1\latihan3.deps.json
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\bin\Debug\netcoreapp3.1\latihan3.runtimeconfig.json
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\bin\Debug\netcoreapp3.1\latihan3.runtimeconfig.dev.json
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\bin\Debug\netcoreapp3.1\latihan3.dll
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\bin\Debug\netcoreapp3.1\latihan3.pdb
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\obj\Debug\netcoreapp3.1\latihan3.dll
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\obj\Debug\netcoreapp3.1\latihan3.pdb
+C:\Ngoding\BelajarSoC\Latihan_Matriks\latihan3\obj\Debug\netcoreapp3.1\latihan3.genruntimeconfig.cache

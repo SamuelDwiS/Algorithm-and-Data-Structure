@@ -1,0 +1,13 @@
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\obj\Debug\netcoreapp3.1\review2.csprojAssemblyReference.cache
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\obj\Debug\netcoreapp3.1\review2.AssemblyInfoInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\obj\Debug\netcoreapp3.1\review2.AssemblyInfo.cs
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\obj\Debug\netcoreapp3.1\review2.csproj.CoreCompileInputs.cache
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\bin\Debug\netcoreapp3.1\review2.exe
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\bin\Debug\netcoreapp3.1\review2.deps.json
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\bin\Debug\netcoreapp3.1\review2.runtimeconfig.json
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\bin\Debug\netcoreapp3.1\review2.runtimeconfig.dev.json
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\bin\Debug\netcoreapp3.1\review2.dll
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\bin\Debug\netcoreapp3.1\review2.pdb
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\obj\Debug\netcoreapp3.1\review2.dll
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\obj\Debug\netcoreapp3.1\review2.pdb
+C:\Ngoding\BelajarSoC\Latihan_Matriks\review2\obj\Debug\netcoreapp3.1\review2.genruntimeconfig.cache
