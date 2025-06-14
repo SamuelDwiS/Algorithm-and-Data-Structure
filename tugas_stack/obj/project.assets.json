@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Latihan_Stack_Dinamis/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "review1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Latihan_Stack_Dinamis.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Latihan_Stack_Dinamis.dll": {}
+        }
+      },
+      "Queue_Dinamis/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "review1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Queue_Dinamis.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Queue_Dinamis.dll": {}
+        }
+      },
+      "review1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/review1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/review1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Latihan_Stack_Dinamis/1.0.0": {
+      "type": "project",
+      "path": "../Latihan_Stack_Dinamis/Latihan_Stack_Dinamis.csproj",
+      "msbuildProject": "../Latihan_Stack_Dinamis/Latihan_Stack_Dinamis.csproj"
+    },
+    "Queue_Dinamis/1.0.0": {
+      "type": "project",
+      "path": "../Latihan_Queue_Dinamis/Queue_Dinamis/Queue_Dinamis.csproj",
+      "msbuildProject": "../Latihan_Queue_Dinamis/Queue_Dinamis/Queue_Dinamis.csproj"
+    },
+    "review1/1.0.0": {
+      "type": "project",
+      "path": "../Latihan_Single_Linked_List/review1/review1.csproj",
+      "msbuildProject": "../Latihan_Single_Linked_List/review1/review1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Latihan_Stack_Dinamis >= 1.0.0",
+      "Queue_Dinamis >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Ngoding\\Algorithm and Structure Data\\tugas_stack\\tugas_stack.csproj",
+      "projectName": "tugas_stack",
+      "projectPath": "C:\\Ngoding\\Algorithm and Structure Data\\tugas_stack\\tugas_stack.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Ngoding\\Algorithm and Structure Data\\tugas_stack\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Ngoding\\Algorithm and Structure Data\\Latihan_Queue_Dinamis\\Queue_Dinamis\\Queue_Dinamis.csproj": {
+              "projectPath": "C:\\Ngoding\\Algorithm and Structure Data\\Latihan_Queue_Dinamis\\Queue_Dinamis\\Queue_Dinamis.csproj"
+            },
+            "C:\\Ngoding\\Algorithm and Structure Data\\Latihan_Stack_Dinamis\\Latihan_Stack_Dinamis.csproj": {
+              "projectPath": "C:\\Ngoding\\Algorithm and Structure Data\\Latihan_Stack_Dinamis\\Latihan_Stack_Dinamis.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

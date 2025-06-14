@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ngoding\\BelajarSoC\\Latihan_Single_Linked_List\\review1\\review1.csproj",
+      "projectUniqueName": "C:\\Ngoding\\Algorithm and Structure Data\\Latihan_Single_Linked_List\\review1\\review1.csproj",
       "projectName": "review1",
-      "projectPath": "C:\\Ngoding\\BelajarSoC\\Latihan_Single_Linked_List\\review1\\review1.csproj",
+      "projectPath": "C:\\Ngoding\\Algorithm and Structure Data\\Latihan_Single_Linked_List\\review1\\review1.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Ngoding\\BelajarSoC\\Latihan_Single_Linked_List\\review1\\obj\\",
+      "outputPath": "C:\\Ngoding\\Algorithm and Structure Data\\Latihan_Single_Linked_List\\review1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SamuelDwi_Single_Linked_List
+namespace Single_Linked_List
 {
     public class ListNode
     {

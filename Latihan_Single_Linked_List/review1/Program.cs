@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SamuelDwi_Single_Linked_List
+namespace Single_Linked_List
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            Single_Linked_List senarai = new Single_Linked_List();
+            SSL senarai = new SSL();
             senarai.addFirst(1);
             senarai.addFirst(2);
             senarai.addFirst(3);

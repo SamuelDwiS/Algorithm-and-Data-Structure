@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "tugas_stack/1.0.0": {
+        "dependencies": {
+          "Latihan_Stack_Dinamis": "1.0.0",
+          "Queue_Dinamis": "1.0.0"
+        },
+        "runtime": {
+          "tugas_stack.dll": {}
+        }
+      },
+      "Latihan_Stack_Dinamis/1.0.0": {
+        "dependencies": {
+          "review1": "1.0.0"
+        },
+        "runtime": {
+          "Latihan_Stack_Dinamis.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Queue_Dinamis/1.0.0": {
+        "dependencies": {
+          "review1": "1.0.0"
+        },
+        "runtime": {
+          "Queue_Dinamis.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "review1/1.0.0": {
+        "runtime": {
+          "review1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tugas_stack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Latihan_Stack_Dinamis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Queue_Dinamis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "review1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

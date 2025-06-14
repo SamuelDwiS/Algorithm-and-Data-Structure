@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SamuelDwi_Single_Linked_List
+namespace Single_Linked_List
 {
-    public class Single_Linked_List
+    public class SSL
     {
         private ListNode firstNode;
 
@@ -13,7 +13,7 @@ namespace SamuelDwi_Single_Linked_List
 
         private int size;
 
-        public Single_Linked_List()
+        public SSL()
         {
             firstNode = null;
             lastNode = null;

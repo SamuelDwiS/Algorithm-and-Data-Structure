@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Latihan_Stack_Dinamis/1.0.0": {
+        "dependencies": {
+          "review1": "1.0.0"
+        },
+        "runtime": {
+          "Latihan_Stack_Dinamis.dll": {}
+        }
+      },
+      "review1/1.0.0": {
+        "runtime": {
+          "review1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Latihan_Stack_Dinamis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "review1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
